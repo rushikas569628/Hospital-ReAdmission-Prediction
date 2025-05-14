@@ -1,0 +1,23 @@
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+
+# Ignore data files (optional)
+*.csv
+*.xlsx
+
+# Others
+*.log
