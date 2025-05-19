@@ -1,0 +1,10 @@
+{
+  "shortcuts": [
+    {
+      "command": "notebook:toggle-comment",
+      "keys": ["Cmd /"],
+      "selector": ".jp-Notebook.jp-mod-editMode"
+    }
+  ]
+}
+
